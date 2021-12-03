@@ -1,6 +1,5 @@
 ### Hello world! 👋
 
-<!--
 **carlaolivei/carlaolivei** é um ✨ repositório ✨ _special_ porque seu `README.md` (este arquivo) aparece em seu perfil GitHub..
 
 Segue um poquinho sobre mim:
@@ -9,4 +8,4 @@ Segue um poquinho sobre mim:
 - 🌱 Estou amando estudar Machine Learning e Deep Learning. Cada dia é uma descoberta fantástica
 - 👯 Gosto de escrever artigos e compartilhar conhecimento
 
--->
+
