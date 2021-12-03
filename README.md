@@ -6,7 +6,6 @@ Segue um poquinho sobre mim:
 - ❤️ Estou estudando Machine Learning e Deep Learning e cada dia mais amando mais essa área
 - 👯 Gosto de escrever artigos e compartilhá-los nas redes sociais
 
-<img src="https://c.tenor.com/M_6biIBTUVcAAAAd/waifu-generator-waifu.gif" width="40" height="40"/>
 
 ### Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
