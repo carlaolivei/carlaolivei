@@ -6,7 +6,7 @@ Segue um poquinho sobre mim:
 - ❤️ Estou estudando Machine Learning e Deep Learning e cada dia mais amando mais essa área
 - 👯 Gosto de escrever artigos e compartilhá-los nas redes sociais
 
-<div class="tenor-gif-embed" data-postid="19639669" data-share-method="host" data-aspect-ratio="1.78771" data-width="100%"><a href="https://tenor.com/view/cat-ducky-imagedetection-machinelearning-tensorflow-gif-19639669">Cat Ducky GIF</a>from <a href="https://tenor.com/search/cat-gifs">Cat GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://c.tenor.com/M_6biIBTUVcAAAAd/waifu-generator-waifu.gif" width="40" height="40"/>
 
 ### Estou aprendendo
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
