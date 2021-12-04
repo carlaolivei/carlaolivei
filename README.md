@@ -3,7 +3,7 @@
 Segue um poquinho sobre mim:
 
 - 💻 Atualmente trabalho como Analista de Sistemas na CAS Tecnologia e dou aula de Ciência da Computação na UNICID
-- ❤️ Estou estudando Machine Learning e Deep Learning e cada dia mais amando mais essa área
+- ❤️ Estou estudando Machine Learning e Deep Learning e cada dia mais amando essa área
 - 👯 Gosto de escrever artigos e compartilhá-los nas redes sociais
 
 
