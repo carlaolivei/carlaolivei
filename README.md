@@ -2,10 +2,10 @@
 
 ### Um poquinho sobre mim:
 
--🏢 Trabalho com análise e integração de sistamas CAS Tecnologia
--🏫 Também sou professora na Unicid nos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas
--🎓 Dou aula de modelagem de processos de negócios, comércio eletrônico, matemática discreta e introdução a ciência de dados 
--✏️ Nas horas vagas gosto de escrever artigos. Já escrevi para o Imaster, fiz um blog e agora escrevo artigos no Linkedin
+- 🏢 Trabalho com análise e integração de sistamas CAS Tecnologia
+- 🏫 Também sou professora na Unicid nos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas
+- 🎓 Dou aula de modelagem de processos de negócios, comércio eletrônico, matemática discreta e introdução a ciência de dados 
+- ✏️ Nas horas vagas gosto de escrever artigos. Já escrevi para o Imaster, fiz um blog e agora escrevo artigos no Linkedin
 
 
 ## Ferramentas
