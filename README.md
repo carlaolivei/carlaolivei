@@ -1,5 +1,7 @@
 # Hello world! 👋
 
+<img width="273" alt="octocat" src="https://user-images.githubusercontent.com/15464302/144764740-cd371e94-e716-4838-85be-9315052c8a6a.png">
+
 ### Um poquinho sobre mim:
 
 - 🏢 Trabalho com análise e integração de sistamas CAS Tecnologia
