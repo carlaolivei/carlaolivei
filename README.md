@@ -4,9 +4,9 @@
 
 ### Um poquinho sobre mim:
 
-- 🏢 Trabalho com análise e integração de sistamas CAS Tecnologia
-- 🏫 Também sou professora na Unicid nos cursos de Ciência da Computação e Análise e Desenvolvimento de Sistemas
-- 🎓 Dou aula de modelagem de processos de negócios, comércio eletrônico, matemática discreta e data science 
+- 🏢 Trabalho com análise e integração de sistemas CAS Tecnologia
+- 🏫 Também sou professora na Unicid nos cursos de Ciência da Computação, Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação
+- 🎓 Dou aula de modelagem de processos de negócios, comércio eletrônico, matemática discreta, data science e fundamentos de inteligência artificial
 - ✏️ Nas horas vagas gosto de escrever. Já escrevi para o iMasters, fiz um blog e agora escrevo artigos no Linkedin
 
 ![Teacher-Summer](https://user-images.githubusercontent.com/15464302/144772735-b44a54e5-9d94-470e-98aa-00ffb3e1ad6b.gif)
