@@ -9,6 +9,7 @@
 - 🎓 Dou aula de modelagem de processos de negócios, comércio eletrônico, matemática discreta e data science 
 - ✏️ Nas horas vagas gosto de escrever. Já escrevi para o iMasters, fiz um blog e agora escrevo artigos no Linkedin
 
+![Teacher-Summer](https://user-images.githubusercontent.com/15464302/144772735-b44a54e5-9d94-470e-98aa-00ffb3e1ad6b.gif)
 
 ## Ferramentas
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
